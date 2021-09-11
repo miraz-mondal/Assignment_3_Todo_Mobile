@@ -1,0 +1,50 @@
+.header {
+    margin-top: 15%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.top-trip-to-paris {
+    font-size: 40px;
+    margin-left: 10%;
+}
+
+.footer {
+    text-align: center;
+    border: 2px solid red;
+    margin-top: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    position: relative;
+
+}
+
+.trip-to-paris {
+    margin-top: 30px;
+    color: red;
+}
+
+.hr {
+    margin-left: 80px;
+}
+
+.completed-tasks {
+    font-size: larger;
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.pending-task {
+    font-size: larger;
+    margin-bottom: 120px;
+}
+
+.icon {
+    position: absolute;
+    bottom: 2px;
+    left: 200px;
+}
